@@ -1,3 +1,4 @@
+//25k-2532
 #include <iostream>
 using namespace std;
 
@@ -23,3 +24,4 @@ int main(){
     cout << r.calculatePerimeter() << endl;
     cout << r.isSquare() << endl;
 }
+
